@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66c090a44a543640885f5bbc7179780, type: 3}
+  m_Name: BoidSystem
+  m_EditorClassIdentifier: 
+  boidCount: 80000
+  spawnAreaRadius: 50
+  wander: {fileID: 11400000, guid: fafbb75127eab01479707699aae47612, type: 2}
